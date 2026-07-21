@@ -1,0 +1,21 @@
+id,asset,signal_type,signal_strength_score,sentiment_score,market_momentum_score,volatility_risk_score,liquidity_score,overall_signal_score,priority_action,recommendation,market_cap_tier,notes
+1,BTC,bullish,88,75,82,70,90,81,Volatility Risk,STRONG BUY — High confidence signal,Large Cap,Bitcoin halving cycle bullish signal
+2,ETH,bullish,85,78,80,68,88,80,Volatility Risk,BUY — Moderate confidence signal,Large Cap,Ethereum ETF approval momentum
+3,SOL,bullish,82,72,78,65,85,76,Volatility Risk,BUY — Moderate confidence signal,Large Cap,Solana ecosystem growth signal
+4,BNB,neutral,70,65,68,72,80,71,Sentiment,WATCH — Moderate signal,Large Cap,Binance regulatory clarity neutral
+5,XRP,bullish,78,72,75,68,82,75,Volatility Risk,BUY — Moderate confidence signal,Large Cap,XRP legal clarity bullish signal
+6,DOGE,bearish,55,48,52,42,65,52,Volatility Risk,CAUTION — Weak signal wait for confirmation,Mid Cap,Meme coin bearish divergence
+7,ADA,bullish,72,68,70,62,78,70,Volatility Risk,WATCH — Moderate signal,Mid Cap,Cardano development milestone
+8,AVAX,bullish,80,74,78,66,84,76,Volatility Risk,BUY — Moderate confidence signal,Mid Cap,Avalanche DeFi growth signal
+9,MATIC,neutral,65,60,63,58,72,64,Volatility Risk,WATCH — Moderate signal,Mid Cap,Polygon zkEVM adoption neutral
+10,LINK,bullish,82,76,80,70,86,79,Volatility Risk,BUY — Moderate confidence signal,Mid Cap,Chainlink CCIP expansion bullish
+11,UNI,bullish,78,72,76,65,82,75,Volatility Risk,BUY — Moderate confidence signal,Mid Cap,Uniswap v4 launch signal
+12,AAVE,bullish,80,75,78,68,84,77,Volatility Risk,BUY — Moderate confidence signal,Mid Cap,AAVE GHO stablecoin bullish
+13,DOT,neutral,65,60,62,55,72,63,Volatility Risk,WATCH — Moderate signal,Mid Cap,Polkadot parachain neutral
+14,ATOM,bullish,70,65,68,60,76,68,Volatility Risk,WATCH — Moderate signal,Mid Cap,Cosmos IBC growth signal
+15,LTC,bearish,52,45,48,40,62,49,Volatility Risk,CAUTION — Weak signal wait for confirmation,Mid Cap,Litecoin halving bearish divergence
+16,SHIB,bearish,45,40,42,35,55,43,Volatility Risk,AVOID — Low confidence signal,Small Cap,Shiba Inu speculative bearish
+17,ARB,bullish,82,76,80,70,86,79,Volatility Risk,BUY — Moderate confidence signal,Mid Cap,Arbitrum L2 dominance bullish
+18,OP,bullish,78,72,76,65,82,75,Volatility Risk,BUY — Moderate confidence signal,Mid Cap,Optimism Superchain bullish
+19,INJ,bullish,85,80,83,72,88,82,Volatility Risk,STRONG BUY — High confidence signal,Small Cap,Injective DeFi breakout
+20,SUI,bullish,80,75,78,68,84,77,Volatility Risk,BUY — Moderate confidence signal,Small Cap,Sui ecosystem expansion
