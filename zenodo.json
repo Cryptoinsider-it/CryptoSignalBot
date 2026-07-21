@@ -1,0 +1,57 @@
+{
+  "title": "CryptoSignalBot",
+  "description": "AI-powered cryptocurrency monitoring bot that tracks blockchain news, Bitcoin and Ethereum market updates, DeFi trends, Web3 developments, and digital asset insights in real time.",
+  "creators": [
+    {
+      "name": "CryptoInsider.it"
+    }
+  ],
+  "keywords": [
+    "crypto signal bot",
+    "bitcoin tracker",
+    "ethereum monitor",
+    "DeFi trends",
+    "Web3 intelligence",
+    "blockchain news",
+    "cryptocurrency AI",
+    "market sentiment",
+    "CryptoInsider",
+    "digital assets"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Cryptoinsider-it/CryptoSignalBot",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://cryptoinsider.it.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@cryptoinsider-it/crypto-signal-bot",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/cryptoinsider-it/crypto-signal-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/cryptoinsider_it/_profile/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Cryptoinsider-It",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

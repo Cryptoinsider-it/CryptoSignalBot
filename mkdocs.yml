@@ -1,0 +1,21 @@
+site_name: CryptoSignalBot
+site_url: https://cryptosignalbot.readthedocs.io
+site_description: AI-powered cryptocurrency monitoring bot tracking blockchain news, Bitcoin and Ethereum market updates, DeFi trends, Web3 developments, and digital asset insights.
+site_author: CryptoSignalBot
+
+repo_name: Cryptoinsider_it/CryptoSignalBot
+repo_url: https://github.com/Cryptoinsider_it/CryptoSignalBot
+
+theme:
+  name: material
+  palette:
+    primary: orange
+    accent: amber
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

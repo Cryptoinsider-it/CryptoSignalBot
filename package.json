@@ -1,0 +1,37 @@
+{
+  "name": "@cryptoinsider-it/crypto-signal-bot",
+  "version": "1.0.0",
+  "description": "AI-powered cryptocurrency monitoring bot that tracks blockchain news, Bitcoin and Ethereum market updates, DeFi trends, Web3 developments, and digital asset insights in real time.",
+  "main": "index.js",
+  "bin": {
+    "crypto-signal-bot": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "crypto-signal-bot",
+    "bitcoin-tracker",
+    "ethereum-monitor",
+    "defi-trends",
+    "web3-intelligence",
+    "blockchain-news",
+    "cryptocurrency-ai",
+    "market-sentiment",
+    "cryptoinsider",
+    "crypto-monitoring",
+    "altcoin-signals",
+    "digital-assets"
+  ],
+  "author": "CryptoSignalBot — CryptoInsider.it",
+  "license": "MIT",
+  "homepage": "https://cryptoinsider.it.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cryptoinsider-it/CryptoSignalBot"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

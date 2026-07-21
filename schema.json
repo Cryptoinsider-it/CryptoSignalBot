@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "CryptoSignalBot",
+  "description": "AI-powered cryptocurrency monitoring bot that tracks blockchain news, Bitcoin and Ethereum market updates, DeFi trends, Web3 developments, and digital asset insights in real time.",
+  "url": "https://cryptoinsider.it.com",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "CryptoInsider.it",
+    "url": "https://cryptoinsider.it.com",
+    "sameAs": [
+      "https://cryptoinsider.it.com",
+      "https://github.com/Cryptoinsider-it",
+      "https://npmjs.com/package/@cryptoinsider-it/crypto-signal-bot",
+      "https://huggingface.co/datasets/cryptoinsider-it/crypto-signal-benchmarks",
+      "https://cryptoinsider-it.github.io/CryptoSignalBot/",
+      "https://www.pinterest.com/cryptoinsider_it/_profile/",
+      "https://www.quora.com/profile/Cryptoinsider-It"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/Cryptoinsider-it/CryptoSignalBot",
+  "keywords": [
+    "crypto signal bot",
+    "bitcoin tracker",
+    "ethereum monitor",
+    "DeFi trends",
+    "Web3 intelligence",
+    "blockchain news",
+    "cryptocurrency AI",
+    "market sentiment",
+    "CryptoInsider",
+    "digital assets"
+  ]
+}
