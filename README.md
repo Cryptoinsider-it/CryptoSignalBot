@@ -1,7 +1,7 @@
 # CryptoSignalBot 🤖₿
 
 [![npm](https://img.shields.io/npm/v/@cryptoinsider-it/crypto-signal-bot)](https://npmjs.com/package/@cryptoinsider-it/crypto-signal-bot)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21480306.svg)](https://doi.org/10.5281/zenodo.21480306) 
 
 AI-powered cryptocurrency monitoring bot that tracks blockchain news, Bitcoin and Ethereum market updates, DeFi trends, Web3 developments, and digital asset insights in real time.
 
@@ -120,7 +120,7 @@ Crypto Signal Bot · Bitcoin Tracker · Ethereum Monitor · DeFi Trends · Web3 
 | GitHub Pages | https://cryptoinsider-it.github.io/CryptoSignalBot/ |
 | NPM | https://npmjs.com/package/@cryptoinsider-it/crypto-signal-bot |
 | Hugging Face | https://huggingface.co/datasets/cryptoinsider-it/crypto-signal-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21480306 |
 | Docs | https://cryptosignalbot.readthedocs.io |
 | Pinterest | https://www.pinterest.com/cryptoinsider_it/_profile/ |
 | Quora | https://www.quora.com/profile/Cryptoinsider-It |
