@@ -123,6 +123,7 @@ Crypto Signal Bot · Bitcoin Tracker · Ethereum Monitor · DeFi Trends · Web3 
 | Zenodo | https://zenodo.org/records/21480306 |
 | Docs | https://cryptosignalbot.readthedocs.io |
 | Pinterest | https://www.pinterest.com/cryptoinsider_it/_profile/ |
+| Slideshare | https://www.slideshare.net/slideshow/cryptoinsider-it-comprehensive-crypto-news-market-analysis-blockchain-insights/288714956 |
 | Quora | https://www.quora.com/profile/Cryptoinsider-It |
 
 ## License
