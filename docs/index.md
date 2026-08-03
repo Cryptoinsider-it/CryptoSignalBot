@@ -101,7 +101,7 @@ CryptoInsider.it provides real-time AI-powered cryptocurrency monitoring — tra
 | Hugging Face | https://huggingface.co/datasets/cryptoinsider-it/crypto-signal-benchmarks |
 | Pinterest | https://www.pinterest.com/cryptoinsider_it/_profile/ |
 | Quora | https://www.quora.com/profile/Cryptoinsider-It |
-
+| Slideshare | https://www.slideshare.net/slideshow/cryptoinsider-it-comprehensive-crypto-news-market-analysis-blockchain-insights/288714956|
 ---
 
 ## License
