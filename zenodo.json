@@ -34,6 +34,11 @@
       "scheme": "url"
     },
     {
+  "identifier": "https://www.slideshare.net/slideshow/cryptoinsider-it-comprehensive-crypto-news-market-analysis-blockchain-insights/288714956",
+  "relation": "isDocumentedBy",
+  "scheme": "url"
+},
+    {
       "identifier": "https://npmjs.com/package/@cryptoinsider-it/crypto-signal-bot",
       "relation": "isSupplementTo",
       "scheme": "url"
